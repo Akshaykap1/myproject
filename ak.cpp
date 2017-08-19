@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(){
-	cout<<"gogo"<<endl;
+	cout<<"gogo go"<<endl;
 	return 0;
 }
